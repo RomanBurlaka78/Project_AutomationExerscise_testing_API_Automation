@@ -3,3 +3,5 @@
 
 ***
 ## [End2end(Cucumber) + Selenium Web Driver(Java)](https://github.com/RomanBurlaka78/Selenium_AutomationExercise)
+***
+## [Postman collection](Automationexercise.postman_collection.json)
